@@ -25,14 +25,6 @@ Profitability calculator (gas costs, price impact, ROI)
 
 Sandwich attack simulation (front-run + back-run logic)
 
-📦 Installation
-bash
-Copy
-git clone https://github.com/yourusername/pancakeswap-frontrun-bot.git
-cd pancakeswap-frontrun-bot
-pip install -r requirements.txt
-Requirements
-Python 3.8+
 
 Web3.py
 
